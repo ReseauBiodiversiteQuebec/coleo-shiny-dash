@@ -1,0 +1,10 @@
+name: coleo-dash
+title:
+username:
+account: biodiversite-quebec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2166427
+bundleId: 3051392
+url: https://biodiversite-quebec.shinyapps.io/coleo-dash/
+when: 1587582170.89199
